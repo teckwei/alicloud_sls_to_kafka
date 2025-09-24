@@ -1,4 +1,4 @@
-# alicloud_sls_to_kafka
+# alicloud_sls_to_kafka demo code
 
 A Python producer pipeline that reads logs from **Alibaba Cloud SLS (Server Log Service)** and publishes them to **Apache Kafka**.
 
