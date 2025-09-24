@@ -1,6 +1,6 @@
 # alicloud_sls_to_kafka demo code
 
-A Python producer pipeline that reads logs from **Alibaba Cloud SLS (Server Log Service)** and publishes them to **Alicloud AsparaMQ for Kafka**.
+A Python producer pipeline that reads logs from **Alibaba Cloud SLS (Server Log Service)** and publishes them to **Alicloud AsparaMQ for Kafka** via SASL_VPC.
 
 ## Features
 
